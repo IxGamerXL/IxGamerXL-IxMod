@@ -1,0 +1,8 @@
+{
+    name: "ixgamerxl-ixmod"
+    displayName: "IX Mod" //what displays in the mod selection menu
+    author: "IxGamerXL"
+    description: "Contains a ton of content all in one mod. Might as well download the entire set instead of individually downloading them."
+    version: "0.1 (pre-alpha)"
+    minGameVersion: "126.2"
+}
